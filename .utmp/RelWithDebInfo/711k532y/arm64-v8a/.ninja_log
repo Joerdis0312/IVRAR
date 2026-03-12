@@ -1,0 +1,19 @@
+# ninja log v5
+19081	19667	7875973462167758	C:/Users/Reichardt/Documents/Uni/IARVR/VR-locomotion-parkour-main/VR-locomotion-parkour-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/711k532y/obj/arm64-v8a/libgame.so	a07220715d7ad67
+83	15521	7875973418428358	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4fd921c848c12af9
+129	15627	7875973418468255	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ee933afe8748beb0
+103	17866	7875973443908139	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	18a7ced65492df87
+2	15667	7875973419986977	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1ea142b87af70f9b
+25	16209	7875973427140864	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	961eab72113772ac
+164	15717	7875973421927926	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4c8accc74e91c45
+62	18205	7875973447427037	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dcddf5bb3e9f4174
+43	19074	7875973455301433	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	84325cde0558f784
+139	21247	7921289275705042	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1ea142b87af70f9b
+225	21252	7921289275649108	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ee933afe8748beb0
+113	21257	7921289275649108	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4fd921c848c12af9
+203	21266	7921289276056200	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4c8accc74e91c45
+160	21287	7921289276270574	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	961eab72113772ac
+183	21709	7921289280509862	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dcddf5bb3e9f4174
+66	21901	7921289282417692	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	84325cde0558f784
+245	21926	7921289282696177	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	18a7ced65492df87
+21927	22551	7921289288982670	C:/Users/Reichardt/Documents/Uni/IARVR/VR-locomotion-parkour-main/VR-locomotion-parkour-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/711k532y/obj/arm64-v8a/libgame.so	a07220715d7ad67
